@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import json
 
-token = "NDc3MTY4Mzc3NTA5NzA3Nzc2.W2x7rg.QSoD3Z7XaLoUnoiESlfO0kHyIwI"
+token = "NDc3MTY4Mzc3NTA5NzA3Nzc2.W2x7rg.3Nx4G5wwqrHeMqU3Hjy7NFrmoFE"
 
 
 def get_prefix(client, message):  # get the prefix of a server and use it only in the server!
